@@ -13,7 +13,7 @@ Final-year **Electronics & Communication Engineering (ECE)** undergraduate at Ea
 
 - 🌐 **Portfolio Website:** [narendaransg.github.io](https://narendaransg.github.io/)
 - 📄 **Interactive Resume:** [narendaransg.github.io/resume.html](https://narendaransg.github.io/resume.html)
-- ✉️ **Contact:** [sgnarendaran@gmail.com](mailto:sgnarendaran@gmail.com) | **Phone:** +91 8925401875
+- ✉️ **Contact:** [sgnarendaran@gmail.com](mailto:sgnarendaran@gmail.com) 
 
 ---
 
